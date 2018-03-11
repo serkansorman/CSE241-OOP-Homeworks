@@ -1,0 +1,445 @@
+serkan@serkan-VirtualBox:~/Desktop/151044057$ make run
+./exe
+Please enter the size of the board:8
+Press 'P' to play two players
+Press 'C' to play with computer
+C
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+Player 1 turn => Choose a column: A
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+Player 1 turn => Choose a column: A
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+Player 1 turn => Choose a column: A
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+Player 1 turn => Choose a column: B
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+Player 1 turn => Choose a column: E
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+Player 1 turn => Choose a column: C
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  X  .  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+Player 1 turn => Choose a column: B
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+.  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+Player 1 turn => Choose a column: A
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+X  X  X  O  O  O  .  .  
+
+Player 1 turn => Choose a column: G
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  .  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  .  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+Player 1 turn => Choose a column: C
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  .  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  X  .  .  .  
+
+X  .  .  O  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+Player 1 turn => Choose a column: D
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  X  X  .  .  .  
+
+X  .  .  O  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  X  X  .  .  .  
+
+X  .  O  O  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+Player 1 turn => Choose a column: B
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  X  X  .  .  .  
+
+X  X  O  O  O  .  .  .  
+
+X  X  X  O  O  .  .  .  
+
+X  X  X  O  O  O  X  .  
+
+A  B  C  D  E  F  G  H  
+.  .  .  .  .  .  .  .  
+
+X  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  .  .  .  .  .  .  
+
+O  .  o  X  X  .  .  .  
+
+X  X  O  o  O  .  .  .  
+
+X  X  X  O  o  .  .  .  
+
+X  X  X  O  O  o  X  .  
+
+Computer win the game!!!
+
